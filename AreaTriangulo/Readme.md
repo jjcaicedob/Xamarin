@@ -17,7 +17,7 @@
 
 # Solución
 ## Android
-![alt tag](AreaTrianguloAndroid.png =100)
+![alt tag](AreaTrianguloAndroid.png =100x)
 
 ## Windows Phone
-![alt tag](AreaTrianguloWP.png =80)
+![alt tag](AreaTrianguloWP.png =80x)
