@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:local="clr-namespace:AreaTriangulo"
+             x:Class="AreaTriangulo.MainPage">
+
+    <StackLayout Padding="0,10,0,10">
+        <Label Text="Base:"
+               FontSize="Large" />
+
+        <Entry x:Name="entBase" Placeholder="Escriba la base" Keyboard="Numeric"></Entry>
+
+        <Label Text="Altura:"
+               FontSize="Large" />
+
+        <Entry x:Name="entAltura" Placeholder="Escriba la altura" Keyboard="Numeric"></Entry>
+
+        <Label x:Name="lblResultado"
+               Text="Altura:"
+               FontSize="Large" />
+
+        <Button x:Name="btnCalcular" Text = "Calcular"                
+                HorizontalOptions="Center" />
+
+        <Button x:Name="btnLimpiar" Text = "Limpiar"                
+                HorizontalOptions="Center" />
+    </StackLayout>
+
+</ContentPage>

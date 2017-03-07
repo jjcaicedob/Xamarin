@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="App1.Triangulo">
+
+    <StackLayout Padding="10,5,10,5">
+
+        <Label Text="Base:"></Label>
+        <Entry x:Name="entBase" 
+               Placeholder="Ingrese la base" 
+               Keyboard="Numeric"></Entry>
+        
+        <Label Text="Altura:"></Label>
+        <Entry x:Name="entAltura" 
+               Placeholder="Ingrese la altura" 
+               Keyboard="Numeric"></Entry>
+
+        <Label x:Name="lblResultado" Text="Resultado:"></Label>
+        
+        <Button x:Name="btnCalcular" Text="Calcular"></Button>
+    </StackLayout>
+</ContentPage>

@@ -1,0 +1,53 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:local="clr-namespace:App1"
+             x:Class="App1.MainPage">
+
+    <StackLayout Padding="0, 5, 0, 5" BackgroundColor="Green">
+        
+        <Label Text="Bienvenido a Xamarin Forms!" 
+           FontSize="Large"
+           VerticalOptions="Fill"
+           HorizontalOptions="Fill"
+           BackgroundColor="Blue"
+           TextColor="Red" />
+
+        <Label Text="Bienvenido 2!" 
+           FontSize="Small"
+           VerticalOptions="Fill"
+           HorizontalOptions="Fill"
+           BackgroundColor="Blue"
+           TextColor="Red" />
+
+        <Entry Placeholder="Ingrese un dato Numerico" 
+               Keyboard="Numeric"></Entry>
+
+        <Entry Placeholder="Ingrese un dato Email " 
+               Keyboard="Email"></Entry>
+
+        <Entry Placeholder="Ingrese un dato Url" 
+               Keyboard="Url"></Entry>
+
+        <Entry Placeholder="Ingrese su contraseña" 
+               IsPassword="True"></Entry>
+
+        <StackLayout Orientation="Horizontal" HorizontalOptions="FillAndExpand">
+            <Button Text = "Botón 1"
+                    VerticalOptions="CenterAndExpand"
+                    HorizontalOptions="FillAndExpand" />
+
+            <Button Text = "Botón 2"
+                    VerticalOptions="CenterAndExpand"
+                    HorizontalOptions="FillAndExpand" />
+        </StackLayout>
+        
+        <Switch VerticalOptions="CenterAndExpand"
+                HorizontalOptions="Center" />
+
+        <Slider VerticalOptions="CenterAndExpand" />
+
+
+    </StackLayout>
+
+</ContentPage>

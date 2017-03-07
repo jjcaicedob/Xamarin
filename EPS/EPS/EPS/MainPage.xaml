@@ -10,7 +10,8 @@
                VerticalOptions="CenterAndExpand"
                HorizontalOptions="Center" />
 
-        <Entry Placeholder="Escribe algo" Keyboard="Numeric"></Entry>
+        <Entry Placeholder="Escribe algo" 
+               Keyboard="Numeric"></Entry>
 
         <Button Text = "Haz clic!"
                 VerticalOptions="CenterAndExpand"

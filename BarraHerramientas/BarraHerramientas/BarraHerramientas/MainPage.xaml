@@ -1,0 +1,47 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:local="clr-namespace:BarraHerramientas"
+             x:Class="BarraHerramientas.MainPage">
+
+    <StackLayout Padding="10,0">
+        <Label Text="Bienvenido a Xamarin.Forms!"
+               FontSize="Large"
+               VerticalOptions="CenterAndExpand"
+               HorizontalOptions="Center" />
+    </StackLayout>
+    
+    <ContentPage.ToolbarItems>
+        <ToolbarItem Text="editar" Order="Primary">
+            <ToolbarItem.Icon>
+                <OnPlatform x:TypeArguments="FileImageSource"
+                            iOS="edit.png"
+                            Android="ic_action_edit.png"
+                            WinPhone="Images/edit.png" />
+            </ToolbarItem.Icon>
+        </ToolbarItem>
+
+        <ToolbarItem Text="buscar" Order="Primary">
+            <ToolbarItem.Icon>
+                <OnPlatform x:TypeArguments="FileImageSource"
+                            iOS="search.png"
+                            Android="ic_action_search.png"
+                            WinPhone="Images/feature.search.png" />
+            </ToolbarItem.Icon>
+        </ToolbarItem>
+
+        <ToolbarItem Text="actualizar" Order="Primary">
+            <ToolbarItem.Icon>
+                <OnPlatform x:TypeArguments="FileImageSource"
+                            iOS="reload.png"
+                            Android="ic_action_refresh.png"
+                            WinPhone="Images/refresh.png" />
+            </ToolbarItem.Icon>
+        </ToolbarItem>
+
+        <ToolbarItem Text="explorar" Order="Secondary" />
+        <ToolbarItem Text="descubrir" Order="Secondary" />
+        <ToolbarItem Text="evolucionar" Order="Secondary" />
+    </ContentPage.ToolbarItems>
+    
+</ContentPage>
