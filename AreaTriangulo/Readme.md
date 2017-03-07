@@ -17,7 +17,7 @@
 
 # Solución
 ## Android
-![alt tag](AreaTrianguloAndroid.png)
+![alt tag](AreaTrianguloAndroid.png | width=100)
 
 ## Windows Phone
-![alt tag](AreaTrianguloWP.png)
+![alt tag](AreaTrianguloWP.png | width=80)
