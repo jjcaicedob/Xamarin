@@ -1,0 +1,2 @@
+D:\GitHub\Xamarin\AreaTriangulo\AreaTriangulo\AreaTriangulo.UWP\AreaTriangulo.UWP.csproj;x86
+D:\GitHub\Xamarin\AreaTriangulo\AreaTriangulo\AreaTriangulo\AreaTriangulo.csproj;neutral

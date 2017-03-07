@@ -15,5 +15,3 @@ D:\GitHub\Xamarin\AreaTriangulo\AreaTriangulo\AreaTriangulo\obj\Debug\AreaTriang
 D:\GitHub\Xamarin\AreaTriangulo\AreaTriangulo\AreaTriangulo\obj\Debug\AreaTriangulo.pdb
 D:\GitHub\Xamarin\AreaTriangulo\AreaTriangulo\AreaTriangulo\obj\Debug\AreaTriangulo.dll.mdb
 D:\GitHub\Xamarin\AreaTriangulo\AreaTriangulo\AreaTriangulo\bin\Debug\AreaTriangulo.dll.mdb
-D:\GitHub\Xamarin\AreaTriangulo\AreaTriangulo\AreaTriangulo\obj\Debug\AreaTriangulo.dll.mdb
-D:\GitHub\Xamarin\AreaTriangulo\AreaTriangulo\AreaTriangulo\bin\Debug\AreaTriangulo.dll.mdb

@@ -20,14 +20,15 @@
                Keyboard="Numeric"></Entry>
 
         <Label x:Name="lblResultado"
-               Text="Altura:"
                FontSize="Large" />
 
-        <Button x:Name="btnCalcular" Text = "Calcular"                
-                HorizontalOptions="Center" />
+        <StackLayout HorizontalOptions="FillAndExpand" Orientation="Horizontal">
+            <Button x:Name="btnCalcular" Text = "Calcular"                
+                    HorizontalOptions="FillAndExpand" />
 
-        <Button x:Name="btnLimpiar" Text = "Limpiar"                
-                HorizontalOptions="Center" />
+            <Button x:Name="btnLimpiar" Text = "Limpiar"                
+                    HorizontalOptions="FillAndExpand" />
+        </StackLayout>
     </StackLayout>
 
 </ContentPage>

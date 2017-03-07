@@ -14,20 +14,21 @@ namespace AreaTriangulo
             InitializeComponent();
 
             btnCalcular.Clicked += BtnCalcular_Clicked;
+            btnLimpiar.Clicked += BtnLimpiar_Clicked;
         }
 
         private void BtnCalcular_Clicked(object sender, EventArgs e)
         {
             if (entBase.Text == null)
             {
-                DisplayAlert("Area", "La base es obligatoria", "Aceptar");
+                DisplayAlert("Área del Triángulo", "La base es obligatoria.", "Aceptar");
 
                 return;
             }
 
             if (entAltura.Text == null)
             {
-                DisplayAlert("Area", "La altura es obligatoria", "Aceptar");
+                DisplayAlert("Área del Triángulo", "La altura es obligatoria.", "Aceptar");
 
                 return;
             }
@@ -37,7 +38,14 @@ namespace AreaTriangulo
 
             double a = b * h / 2;
 
-            lblResultado.Text = a.ToString();
+            lblResultado.Text = "Área: " + a.ToString();
+        }
+
+        private void BtnLimpiar_Clicked(object sender, EventArgs e)
+        {
+            entBase.Text = null;
+            entAltura.Text = null;
+            lblResultado.Text = null;
         }
     }
 }
