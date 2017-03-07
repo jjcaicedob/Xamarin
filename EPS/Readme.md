@@ -20,7 +20,7 @@ Entrada, Proceso y Salida - EPS
     <th>Windows Phone</th> 
   </tr>
   <tr>
-    <td><img src="https://github.com/jjcaicedob/Xamarin/blob/master/AreaTriangulo/EPSAndroid.png" alt="Android" width="200"></td>
-    <td><img src="https://github.com/jjcaicedob/Xamarin/blob/master/AreaTriangulo/EPSWP.png" alt="Windows Phone" width="200"></td>
+    <td><img src="https://github.com/jjcaicedob/Xamarin/tree/master/EPS/EPSAndroid.png" alt="Android" width="200"></td>
+    <td><img src="https://github.com/jjcaicedob/Xamarin/tree/master/EPS/EPSWP.png" alt="Windows Phone" width="200"></td>
   </tr>
 </table>
