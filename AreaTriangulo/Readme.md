@@ -22,7 +22,7 @@
     <th>Windows Phone</th> 
   </tr>
   <tr>
-    <td><img src="https://github.com/jjcaicedob/Xamarin/blob/master/AreaTriangulo/AreaTrianguloAndroid.png" alt="Android"></td>
-    <td><img src="https://github.com/jjcaicedob/Xamarin/blob/master/AreaTriangulo/AreaTrianguloWP.png" alt="Android"></td>
+    <td><img src="https://github.com/jjcaicedob/Xamarin/blob/master/AreaTriangulo/AreaTrianguloAndroid.png" alt="Android" width="200"></td>
+    <td><img src="https://github.com/jjcaicedob/Xamarin/blob/master/AreaTriangulo/AreaTrianguloWP.png" alt="Windows Phone" width="200"></td>
   </tr>
 </table>
