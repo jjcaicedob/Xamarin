@@ -1,4 +1,4 @@
-# Repositorio PSeInt
+# Repositorio Xamarin
 - El repositorio contiene código generado con Visual Studio .Net 2015 y Xamarin. 
 - Está basado en una serie de proyectos que permiten el aprendizaje progresivo utilizando cada una de las instrucciones disponibles para iniciarse en la programación móvil.
 
