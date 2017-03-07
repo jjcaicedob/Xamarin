@@ -16,8 +16,13 @@
 - Universo de fórmulas. [Ver](http://www.universoformulas.com/matematicas/geometria/area-triangulo/).
 
 # Solución
-## Android
-![alt tag](AreaTrianguloAndroid.png)
-
-## Windows Phone
-![alt tag](AreaTrianguloWP.png)
+<table style="width:100%">
+  <tr>
+    <th>Android</th>
+    <th>Windows Phone</th> 
+  </tr>
+  <tr>
+    <td><img src="https://github.com/jjcaicedob/Xamarin/blob/master/AreaTriangulo/AreaTrianguloAndroid.png" alt="Android"></td>
+    <td><img src="https://github.com/jjcaicedob/Xamarin/blob/master/AreaTriangulo/AreaTrianguloWP.png" alt="Android"></td>
+  </tr>
+</table>
