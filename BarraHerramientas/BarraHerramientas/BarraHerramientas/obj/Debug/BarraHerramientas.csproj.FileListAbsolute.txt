@@ -17,11 +17,3 @@ D:\GitHub\Xamarin\BarraHerramientas\BarraHerramientas\BarraHerramientas\obj\Debu
 D:\GitHub\Xamarin\BarraHerramientas\BarraHerramientas\BarraHerramientas\bin\Debug\BarraHerramientas.dll.mdb
 D:\GitHub\Xamarin\BarraHerramientas\BarraHerramientas\BarraHerramientas\obj\Debug\BarraHerramientas.dll.mdb
 D:\GitHub\Xamarin\BarraHerramientas\BarraHerramientas\BarraHerramientas\bin\Debug\BarraHerramientas.dll.mdb
-D:\GitHub\Xamarin\BarraHerramientas\BarraHerramientas\BarraHerramientas\obj\Debug\BarraHerramientas.dll.mdb
-D:\GitHub\Xamarin\BarraHerramientas\BarraHerramientas\BarraHerramientas\bin\Debug\BarraHerramientas.dll.mdb
-D:\GitHub\Xamarin\BarraHerramientas\BarraHerramientas\BarraHerramientas\obj\Debug\BarraHerramientas.dll.mdb
-D:\GitHub\Xamarin\BarraHerramientas\BarraHerramientas\BarraHerramientas\bin\Debug\BarraHerramientas.dll.mdb
-D:\GitHub\Xamarin\BarraHerramientas\BarraHerramientas\BarraHerramientas\obj\Debug\BarraHerramientas.dll.mdb
-D:\GitHub\Xamarin\BarraHerramientas\BarraHerramientas\BarraHerramientas\bin\Debug\BarraHerramientas.dll.mdb
-D:\GitHub\Xamarin\BarraHerramientas\BarraHerramientas\BarraHerramientas\obj\Debug\BarraHerramientas.dll.mdb
-D:\GitHub\Xamarin\BarraHerramientas\BarraHerramientas\BarraHerramientas\bin\Debug\BarraHerramientas.dll.mdb
