@@ -13,7 +13,7 @@ namespace AppNavigation
         {
             InitializeComponent();
 
-            MainPage = new AppNavigation.MainPage();
+            MainPage = new AppNavigation.TestMasterDetailPage();
         }
 
         protected override void OnStart()
