@@ -32,6 +32,11 @@ namespace AppNavigation
             IsPresented = false;
 
         }
+
+        private void tbiCarousel_Clicked(object sender, EventArgs e)
+        {
+            Detail = new NavigationPage(new TestCarouselPage());
+        }
     }
 
 }
