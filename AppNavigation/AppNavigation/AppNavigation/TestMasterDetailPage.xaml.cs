@@ -37,6 +37,11 @@ namespace AppNavigation
         {
             Detail = new NavigationPage(new TestCarouselPage());
         }
+
+        private void tbiTabbed_Clicked(object sender, EventArgs e)
+        {
+            Detail = new NavigationPage(new TestTabbedPage());
+        }
     }
 
 }

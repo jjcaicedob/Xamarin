@@ -16,5 +16,6 @@
 
     <ContentPage.ToolbarItems>
         <ToolbarItem Text="Carousel" Order="Primary" Clicked="tbiCarousel_Clicked" />
+        <ToolbarItem Text="Tabbed" Order="Primary" Clicked="tbiTabbed_Clicked" />
     </ContentPage.ToolbarItems>
 </MasterDetailPage>

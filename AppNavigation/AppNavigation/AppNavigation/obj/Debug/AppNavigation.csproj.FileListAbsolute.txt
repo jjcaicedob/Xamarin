@@ -17,6 +17,8 @@ D:\GitHub\Xamarin\AppNavigation\AppNavigation\AppNavigation\obj\Debug\AppNavigat
 D:\GitHub\Xamarin\AppNavigation\AppNavigation\AppNavigation\obj\Debug\AppNavigation.TestMasterDetailPageMaster.xaml.g.cs
 D:\GitHub\Xamarin\AppNavigation\AppNavigation\AppNavigation\obj\Debug\AppNavigation.TestMasterDetailPageDetail.xaml.g.cs
 D:\GitHub\Xamarin\AppNavigation\AppNavigation\AppNavigation\obj\Debug\AppNavigation.TestCarouselPage.xaml.g.cs
+D:\GitHub\Xamarin\AppNavigation\AppNavigation\AppNavigation\obj\Debug\AppNavigation.TestTabbedPage.xaml.g.cs
+D:\GitHub\Xamarin\AppNavigation\AppNavigation\AppNavigation\obj\Debug\AppNavigation.TestTabbedPageTab1.xaml.g.cs
 D:\GitHub\Xamarin\AppNavigation\AppNavigation\AppNavigation\obj\Debug\AppNavigation.dll.mdb
 D:\GitHub\Xamarin\AppNavigation\AppNavigation\AppNavigation\bin\Debug\AppNavigation.dll.mdb
 D:\GitHub\Xamarin\AppNavigation\AppNavigation\AppNavigation\obj\Debug\AppNavigation.dll.mdb
