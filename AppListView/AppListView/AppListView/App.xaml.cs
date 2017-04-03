@@ -13,7 +13,7 @@ namespace AppListView
         {
             InitializeComponent();
 
-            MainPage = new AppListView.MainPage();
+            MainPage = new AppListView.TestListViewPage();
         }
 
         protected override void OnStart()
