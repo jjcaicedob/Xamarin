@@ -13,5 +13,10 @@ namespace AppXLabs
         {
             InitializeComponent();
         }
+
+        private void btnCheckBox_Clicked(object sender, EventArgs e)
+        {
+            Navigation.PushAsync(new TestCheckBoxContentPage());
+        }
     }
 }

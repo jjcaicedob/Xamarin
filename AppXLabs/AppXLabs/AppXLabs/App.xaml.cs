@@ -13,7 +13,7 @@ namespace AppXLabs
         {
             InitializeComponent();
 
-            MainPage = new AppXLabs.MainPage();
+            MainPage = new NavigationPage(new AppXLabs.MainPage());
         }
 
         protected override void OnStart()
