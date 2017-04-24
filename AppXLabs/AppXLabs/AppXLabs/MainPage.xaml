@@ -6,6 +6,7 @@
              Title="Principal">
 
     <StackLayout HorizontalOptions="Center" VerticalOptions="Center">
-        <Button Text="CheckBox" Clicked="btnCheckBox_Clicked"></Button>
+        <Button Text="Test CheckBox" Clicked="btnCheckBox_Clicked"></Button>
+        <Button Text="Test Calendar" Clicked="btnCalendar_Clicked"></Button>
     </StackLayout>
 </ContentPage>

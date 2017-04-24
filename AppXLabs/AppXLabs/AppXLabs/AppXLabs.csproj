@@ -42,6 +42,9 @@
       <DependentUpon>MainPage.xaml</DependentUpon>
     </Compile>
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="TestCalendarContentPage.xaml.cs">
+      <DependentUpon>TestCalendarContentPage.xaml</DependentUpon>
+    </Compile>
     <Compile Include="TestCheckBoxContentPage.xaml.cs">
       <DependentUpon>TestCheckBoxContentPage.xaml</DependentUpon>
     </Compile>
@@ -100,6 +103,12 @@
   </ItemGroup>
   <ItemGroup>
     <EmbeddedResource Include="TestCheckBoxContentPage.xaml">
+      <Generator>MSBuild:UpdateDesignTimeXaml</Generator>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="TestCalendarContentPage.xaml">
       <Generator>MSBuild:UpdateDesignTimeXaml</Generator>
       <SubType>Designer</SubType>
     </EmbeddedResource>

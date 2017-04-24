@@ -18,5 +18,10 @@ namespace AppXLabs
         {
             Navigation.PushAsync(new TestCheckBoxContentPage());
         }
+
+        private void btnCalendar_Clicked(object sender, EventArgs e)
+        {
+            Navigation.PushAsync(new TestCalendarContentPage());
+        }
     }
 }
