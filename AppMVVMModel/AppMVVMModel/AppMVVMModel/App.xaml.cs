@@ -13,7 +13,7 @@ namespace AppMVVMModel
         {
             InitializeComponent();
 
-            MainPage = new AppMVVMModel.MainPage();
+            MainPage = new NavigationPage(new AppMVVMModel.MainPage());
         }
 
         protected override void OnStart()
