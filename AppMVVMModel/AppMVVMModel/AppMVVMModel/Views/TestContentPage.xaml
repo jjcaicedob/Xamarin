@@ -1,5 +1,33 @@
 ﻿<?xml version="1.0" encoding="utf-8" ?>
 <ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
              xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
-             x:Class="AppMVVMModel.Views.TestContentPage">
+             x:Class="AppMVVMModel.Views.TestContentPage"
+             xmlns:ViewModels="clr-namespace:AppMVVMModel.ViewModels;asembly=AppMVVMModel"
+             Title="Test MVVM">
+
+    <ContentPage.BindingContext>
+        <ViewModels:TestViewModel />
+    </ContentPage.BindingContext>
+
+    <StackLayout Orientation="Vertical"
+                 Margin="10"
+                 VerticalOptions="Center"
+                 HorizontalOptions="CenterAndExpand">
+
+        <Entry x:Name="entName"
+               FontSize="Large"
+               TextColor="Black"
+               HorizontalTextAlignment="Center"
+               Text="{Binding Nombre}"/>
+
+        <Label x:Name="entMensaje"
+               FontSize="Large"
+               Text="{Binding Mensaje}"/>
+
+        <Button Text="entIntroduce"
+                BackgroundColor="Black"
+                TextColor="White"
+                Command="{Binding IntroduceYourself}"/>
+    </StackLayout>
+    
 </ContentPage>

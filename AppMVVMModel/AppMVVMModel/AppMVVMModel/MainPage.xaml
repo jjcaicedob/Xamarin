@@ -5,8 +5,9 @@
              x:Class="AppMVVMModel.MainPage"
              Title="Principal">
 
-	<Label Text="Welcome to Xamarin Forms!" 
+	<Button Text="Test" 
            VerticalOptions="Center" 
-           HorizontalOptions="Center" />
+           HorizontalOptions="Center" 
+           Clicked="Button_Clicked"/>
 
 </ContentPage>

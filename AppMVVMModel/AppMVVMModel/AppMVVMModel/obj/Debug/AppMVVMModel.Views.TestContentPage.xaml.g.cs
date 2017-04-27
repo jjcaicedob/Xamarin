@@ -17,8 +17,16 @@ namespace AppMVVMModel.Views {
     public partial class TestContentPage : global::Xamarin.Forms.ContentPage {
         
         [System.CodeDom.Compiler.GeneratedCodeAttribute("Xamarin.Forms.Build.Tasks.XamlG", "0.0.0.0")]
+        private global::Xamarin.Forms.Entry entName;
+        
+        [System.CodeDom.Compiler.GeneratedCodeAttribute("Xamarin.Forms.Build.Tasks.XamlG", "0.0.0.0")]
+        private global::Xamarin.Forms.Label entMensaje;
+        
+        [System.CodeDom.Compiler.GeneratedCodeAttribute("Xamarin.Forms.Build.Tasks.XamlG", "0.0.0.0")]
         private void InitializeComponent() {
             this.LoadFromXaml(typeof(TestContentPage));
+            entName = this.FindByName<global::Xamarin.Forms.Entry>("entName");
+            entMensaje = this.FindByName<global::Xamarin.Forms.Label>("entMensaje");
         }
     }
 }
