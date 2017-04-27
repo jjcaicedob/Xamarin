@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace AppMVVMModel.Model
+namespace AppMVVMModel.Models
 {
     class TestModel
     {
