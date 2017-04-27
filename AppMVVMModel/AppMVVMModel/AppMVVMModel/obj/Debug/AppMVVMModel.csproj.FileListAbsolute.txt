@@ -16,3 +16,5 @@ D:\GitHub\Xamarin\AppMVVMModel\AppMVVMModel\AppMVVMModel\obj\Debug\AppMVVMModel.
 D:\GitHub\Xamarin\AppMVVMModel\AppMVVMModel\AppMVVMModel\obj\Debug\AppMVVMModel.Views.TestContentPage.xaml.g.cs
 D:\GitHub\Xamarin\AppMVVMModel\AppMVVMModel\AppMVVMModel\obj\Debug\AppMVVMModel.dll.mdb
 D:\GitHub\Xamarin\AppMVVMModel\AppMVVMModel\AppMVVMModel\bin\Debug\AppMVVMModel.dll.mdb
+D:\GitHub\Xamarin\AppMVVMModel\AppMVVMModel\AppMVVMModel\obj\Debug\AppMVVMModel.dll.mdb
+D:\GitHub\Xamarin\AppMVVMModel\AppMVVMModel\AppMVVMModel\bin\Debug\AppMVVMModel.dll.mdb

@@ -24,7 +24,7 @@
                FontSize="Large"
                Text="{Binding Mensaje}"/>
 
-        <Button Text="entIntroduce"
+        <Button Text="Escribir Mensaje"
                 BackgroundColor="Black"
                 TextColor="White"
                 Command="{Binding IntroduceYourself}"/>
