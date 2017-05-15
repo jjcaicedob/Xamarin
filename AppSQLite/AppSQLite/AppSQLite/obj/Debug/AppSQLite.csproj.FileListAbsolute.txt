@@ -13,9 +13,10 @@ D:\GitHub\Xamarin\AppSQLite\AppSQLite\AppSQLite\obj\Debug\AppSQLite.MainPage.xam
 D:\GitHub\Xamarin\AppSQLite\AppSQLite\AppSQLite\obj\Debug\AppSQLite.App.xaml.g.cs
 D:\GitHub\Xamarin\AppSQLite\AppSQLite\AppSQLite\obj\Debug\AppSQLite.dll
 D:\GitHub\Xamarin\AppSQLite\AppSQLite\AppSQLite\obj\Debug\AppSQLite.pdb
-D:\GitHub\Xamarin\AppSQLite\AppSQLite\AppSQLite\obj\Debug\AppSQLite.dll.mdb
-D:\GitHub\Xamarin\AppSQLite\AppSQLite\AppSQLite\bin\Debug\AppSQLite.dll.mdb
-D:\GitHub\Xamarin\AppSQLite\AppSQLite\AppSQLite\obj\Debug\AppSQLite.dll.mdb
-D:\GitHub\Xamarin\AppSQLite\AppSQLite\AppSQLite\bin\Debug\AppSQLite.dll.mdb
+D:\GitHub\Xamarin\AppSQLite\AppSQLite\AppSQLite\bin\Debug\SQLite-net.dll
+D:\GitHub\Xamarin\AppSQLite\AppSQLite\AppSQLite\bin\Debug\SQLitePCLRaw.batteries_green.dll
+D:\GitHub\Xamarin\AppSQLite\AppSQLite\AppSQLite\bin\Debug\SQLitePCLRaw.batteries_v2.dll
+D:\GitHub\Xamarin\AppSQLite\AppSQLite\AppSQLite\bin\Debug\SQLitePCLRaw.core.dll
+D:\GitHub\Xamarin\AppSQLite\AppSQLite\AppSQLite\bin\Debug\SQLite-net.xml
 D:\GitHub\Xamarin\AppSQLite\AppSQLite\AppSQLite\obj\Debug\AppSQLite.dll.mdb
 D:\GitHub\Xamarin\AppSQLite\AppSQLite\AppSQLite\bin\Debug\AppSQLite.dll.mdb
