@@ -29,5 +29,3 @@ D:\GitHub\Xamarin\AppXLabs\AppXLabs\AppXLabs\obj\Debug\AppXLabs.TestCheckBoxCont
 D:\GitHub\Xamarin\AppXLabs\AppXLabs\AppXLabs\obj\Debug\AppXLabs.TestCalendarContentPage.xaml.g.cs
 D:\GitHub\Xamarin\AppXLabs\AppXLabs\AppXLabs\obj\Debug\AppXLabs.dll.mdb
 D:\GitHub\Xamarin\AppXLabs\AppXLabs\AppXLabs\bin\Debug\AppXLabs.dll.mdb
-D:\GitHub\Xamarin\AppXLabs\AppXLabs\AppXLabs\obj\Debug\AppXLabs.dll.mdb
-D:\GitHub\Xamarin\AppXLabs\AppXLabs\AppXLabs\bin\Debug\AppXLabs.dll.mdb
