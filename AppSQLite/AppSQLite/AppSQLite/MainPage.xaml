@@ -4,8 +4,18 @@
              xmlns:local="clr-namespace:AppSQLite"
              x:Class="AppSQLite.MainPage">
 
-	<Label Text="Welcome to Xamarin Forms!" 
-           VerticalOptions="Center" 
-           HorizontalOptions="Center" />
+    <StackLayout HorizontalOptions="Center" VerticalOptions="Center">
+        <Button Text="Crear tabla Usuarios" Clicked="btnCrearTabla_Clicked"></Button>
+        <Button Text="Insertar Usuario" Clicked="btnInsertar_Clicked"></Button>
+        <Button Text="Consultar Usuarios" Clicked="btnConsultar_Clicked"></Button>
+        <ListView x:Name="lvUsuarios">
+            <ListView.ItemTemplate>
+                <DataTemplate>
+                    <TextCell Text="{Binding Nombres}"
+                  Detail="{Binding Apellidos}"/>
+                </DataTemplate>
+            </ListView.ItemTemplate>
+        </ListView>
+    </StackLayout>
 
 </ContentPage>

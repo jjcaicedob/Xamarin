@@ -78,5 +78,8 @@ D:\GitHub\Xamarin\AppSQLite\AppSQLite\AppSQLite.Android\bin\Debug\SQLitePCLRaw.l
 D:\GitHub\Xamarin\AppSQLite\AppSQLite\AppSQLite.Android\bin\Debug\SQLitePCLRaw.provider.e_sqlite3.dll
 D:\GitHub\Xamarin\AppSQLite\AppSQLite\AppSQLite.Android\bin\Debug\SQLite-net.xml
 D:\GitHub\Xamarin\AppSQLite\AppSQLite\AppSQLite.Android\bin\Debug\SQLite-net.dll.mdb
+D:\GitHub\Xamarin\AppSQLite\AppSQLite\AppSQLite.Android\bin\Debug\System.IO.Compression.dll.mdb
+D:\GitHub\Xamarin\AppSQLite\AppSQLite\AppSQLite.Android\obj\Debug\android\assets\SQLite-net.dll.mdb
+D:\GitHub\Xamarin\AppSQLite\AppSQLite\AppSQLite.Android\obj\Debug\android\assets\System.IO.Compression.dll.mdb
 D:\GitHub\Xamarin\AppSQLite\AppSQLite\AppSQLite.Android\obj\Debug\AppSQLite.Android.dll.mdb
 D:\GitHub\Xamarin\AppSQLite\AppSQLite\AppSQLite.Android\bin\Debug\AppSQLite.Android.dll.mdb

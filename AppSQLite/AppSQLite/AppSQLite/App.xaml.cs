@@ -4,11 +4,27 @@ using System.Linq;
 using System.Text;
 
 using Xamarin.Forms;
+using AppSQLite.Interfaces;
+using SQLite;
 
 namespace AppSQLite
 {
     public partial class App : Application
     {
+        static SQLiteConnection database;
+
+        public static SQLiteConnection Database
+        {
+            get
+            {
+                if (database == null)
+                {
+                    database = new SQLiteConnection(DependencyService.Get<IFileHelper>().GetLocalFilePath("Database.db3"));
+                }
+                return database;
+            }
+        }
+
         public App()
         {
             InitializeComponent();

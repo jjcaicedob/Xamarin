@@ -20,3 +20,5 @@ D:\GitHub\Xamarin\AppSQLite\AppSQLite\AppSQLite\bin\Debug\SQLitePCLRaw.core.dll
 D:\GitHub\Xamarin\AppSQLite\AppSQLite\AppSQLite\bin\Debug\SQLite-net.xml
 D:\GitHub\Xamarin\AppSQLite\AppSQLite\AppSQLite\obj\Debug\AppSQLite.dll.mdb
 D:\GitHub\Xamarin\AppSQLite\AppSQLite\AppSQLite\bin\Debug\AppSQLite.dll.mdb
+D:\GitHub\Xamarin\AppSQLite\AppSQLite\AppSQLite\obj\Debug\AppSQLite.dll.mdb
+D:\GitHub\Xamarin\AppSQLite\AppSQLite\AppSQLite\bin\Debug\AppSQLite.dll.mdb
