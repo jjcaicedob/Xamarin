@@ -9,9 +9,8 @@ Barra de Herramientas
 - Comprender como funcionan las opciones de *Barra de Menú.
 
 # Recursos adicionales
-- Conceptos básicos sobre StackLayoout. [Ver](https://developer.xamarin.com/guides/xamarin-forms/user-interface/layouts/stack-layout/).
-- Conceptos básicos sobre Label. [Ver](https://developer.xamarin.com/guides/xamarin-forms/user-interface/text/label/).
-- Conceptos básicos sobre Entry. [Ver](https://developer.xamarin.com/guides/xamarin-forms/user-interface/text/entry/).
+- Conceptos básicos sobre ToolBar. [Ver](https://developer.xamarin.com/guides/android/user_interface/controls/tool-bar/).
+- Ejemplos sobre ToolBar. [Ver](https://xamarinhelp.com/xamarin-forms-toolbar/).
 
 # Solución
 <table style="width:100%">
