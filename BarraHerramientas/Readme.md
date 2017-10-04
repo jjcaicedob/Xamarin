@@ -25,6 +25,10 @@ Barra de Herramientas
   </tr>
   <tr>
     <td><img src="https://github.com/jjcaicedob/Xamarin/blob/master/BarraHerramientas/BarraHerramientasAndroid2.png" alt="Android" width="200"></td>
-    <td><img src="https://github.com/jjcaicedob/Xamarin/blob/master/BarraHerramientas/BarraHerramientasWP.png" alt="Windows Phone" width="200"></td>
+    <td><img src="https://github.com/jjcaicedob/Xamarin/blob/master/BarraHerramientas/BarraHerramientasWP2.png" alt="Windows Phone" width="200"></td>
   </tr>
+<tr>
+    <td><img src="https://github.com/jjcaicedob/Xamarin/blob/master/BarraHerramientas/BarraHerramientasAndroid3.png" alt="Android" width="200"></td>
+    <td><img src="https://github.com/jjcaicedob/Xamarin/blob/master/BarraHerramientas/BarraHerramientasWP3.png" alt="Windows Phone" width="200"></td>
+  </tr>  
 </table>
