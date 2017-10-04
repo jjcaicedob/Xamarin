@@ -2,11 +2,11 @@
 Barra de Herramientas
 
 # Descripción
-- El repositorio contiene código fuente de *Android, iOS y WP* para visualizar los controles de: .
+- El repositorio contiene código fuente de *Android, iOS y WP* para visualizar los controles: ToolbarItem, ToolbarItems y la opción de OnPlatform.
 - Vea los enlaces en **Recursos adicionales** para comprender como utilizarlos.
 
 # Objetivos
-- Comprender los conceptos de *Entrada (E), Proceso (P) y Salida (S)*.
+- Comprender como funcionan las opciones de *Barra de Menú.
 
 # Recursos adicionales
 - Conceptos básicos sobre StackLayoout. [Ver](https://developer.xamarin.com/guides/xamarin-forms/user-interface/layouts/stack-layout/).
@@ -20,7 +20,7 @@ Barra de Herramientas
     <th>Windows Phone</th> 
   </tr>
   <tr>
-    <td><img src="https://github.com/jjcaicedob/Xamarin/blob/master/EPS/EPSAndroid.png" alt="Android" width="200"></td>
-    <td><img src="https://github.com/jjcaicedob/Xamarin/blob/master/EPS/EPSWP.png" alt="Windows Phone" width="200"></td>
+    <td><img src="https://github.com/jjcaicedob/Xamarin/blob/master/BarraHerramientas/BarraHerramientasAndroid.png" alt="Android" width="200"></td>
+    <td><img src="https://github.com/jjcaicedob/Xamarin/blob/master/BarraHerramientas/BarraHerramientasWP.png" alt="Windows Phone" width="200"></td>
   </tr>
 </table>
