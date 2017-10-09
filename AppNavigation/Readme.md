@@ -2,7 +2,7 @@
 Navegación
 
 # Descripción
-- El repositorio contiene código fuente de *Android, iOS y WP* para visualizar los controles de: Entrada (Entry), Proceso (Button, Switch y Slider) y Salida (Label).
+- El repositorio contiene código fuente de *Android, iOS y WP* para visualizar los diferentes tipos de navegación.
 - Vea los enlaces en **Recursos adicionales** para comprender como realizar el cálculo y visualizar algunos ejemplos.
 
 # Objetivos
