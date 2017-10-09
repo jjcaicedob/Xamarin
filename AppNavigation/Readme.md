@@ -9,8 +9,9 @@ Navegación
 - Comprender los conceptos de *Navegación* móvil.
 
 # Recursos adicionales
+- Navegación Jeráquica. [Ver](https://developer.xamarin.com/guides/xamarin-forms/application-fundamentals/navigation/hierarchical/).
 - Conceptos básicos sobre Navegación. [Ver](https://developer.xamarin.com/guides/xamarin-forms/application-fundamentals/navigation/).
 - Navegación con Pestañas. [Ver](https://developer.xamarin.com/guides/xamarin-forms/application-fundamentals/navigation/tabbed-page/).
 - Navegación con Carrusel. [Ver](https://developer.xamarin.com/guides/xamarin-forms/application-fundamentals/navigation/carousel-page/).
 - Navegación con Maestro Detalle. [Ver](https://developer.xamarin.com/guides/xamarin-forms/application-fundamentals/navigation/master-detail-page/).
-- Navegación con Maestro Detalle. [Ver](https://developer.xamarin.com/guides/xamarin-forms/application-fundamentals/navigation/master-detail-page/).
+
